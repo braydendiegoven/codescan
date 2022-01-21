@@ -1,0 +1,8 @@
+Static Code Analysis: How to Pick the Right Tool
+The tools that you use to streamline your Salesforce development process are what allow you to deliver the best and most efficient version of your release. 
+There are a lot of Static Code Analysis tools available to optimize your code. Major factors that should be considered in your decision making are as follows:
+Language Support
+Ruleset
+Integrations
+Cost
+https://www.codescan.io/blog/choosing_sca/
